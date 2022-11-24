@@ -8,5 +8,5 @@ A Diode-Transistor-Logic Adder System built from Scratch, with simplicity and ex
 ### Xor Circuit Redesign for Improved Adder
 ![newAdder Schematic](Images/revisedXorSchematic.png "Xor Circuit Redesign for Improved Adder")
 
-###Current Adder Design
+### Current Adder Design
 ![newAdder Schematic](Images/newAdderSchematic.png "Adder v.2")
